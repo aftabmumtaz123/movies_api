@@ -61,5 +61,5 @@ If you'd like to contribute, feel free to fork the repo and submit a pull reques
 This project is licensed under the **MIT License**.
 
 ---
-**Author:** Your Name | [GitHub Profile](https://github.com/your-username)
+**Author:** Aftab Mumtaz | [GitHub Profile]((https://github.com/aftabmumtaz123))
 
